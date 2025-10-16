@@ -1,0 +1,133 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+.venv/
+
+# IDE and editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+.project
+.pydevproject
+.settings/
+*.iml
+
+# jsrip specific output
+jsrip_output/
+output/
+scan_*/
+results/
+
+# Logs
+*.log
+logs/
+jsrip.log
+
+# Reports (generated)
+reports/
+*.pdf
+*.html
+*.md~
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.pytest_cache/
+*.cover
+.hypothesis/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Configuration files with credentials
+headers.json
+cookies.json
+config.local.json
+
+# Input files
+urls.txt
+targets.txt
+
+# Temporary files
+*.tmp
+*.temp
+tmp/
+temp/
+.tmp/
+
+# Playwright
+.playwright/
+pw_script_urls.json
+
+# Downloaded files (these are outputs, not source)
+javascript/
+*.js.bak
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Node modules (if using any npm packages)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Backup files
+*.bak
+*.backup
+*~
+
+# macOS
+.AppleDouble
+.LSOverride
+
+# Windows
+*.lnk
+$RECYCLE.BIN/
+
+# Database files (if added later)
+*.db
+*.sqlite
+*.sqlite3

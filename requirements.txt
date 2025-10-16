@@ -1,0 +1,11 @@
+# Core dependencies
+playwright>=1.40.0
+aiohttp>=3.9.0
+jsbeautifier>=1.14.0
+
+# Optional utilities used in analyzer and reporting
+markdown>=3.5.0
+weasyprint>=60.0
+
+# Development and logging helpers
+colorama>=0.4.6
