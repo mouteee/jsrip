@@ -25,7 +25,7 @@ It automatically **crawls**, **downloads**, and **analyzes** JavaScript files to
 ## 🚀 Quick Start
 
 ```bash
-git clone https://github.com/yourusername/jsrip.git
+git clone https://github.com/mouteee/jsrip.git
 cd jsrip
 
 # 1️⃣ Create & activate a virtualenv
@@ -40,6 +40,7 @@ playwright install chromium
 
 # 4️⃣ Run your first scan
 python3 jsrip.py -u https://example.com
+
 ```
 
 🧰 Example output directory:
