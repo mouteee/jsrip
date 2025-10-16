@@ -213,3 +213,11 @@ jsrip/
 
 Use `jsrip` **only on systems you have permission to test**.  
 The author and contributors assume **no responsibility** for misuse or damage.
+
+---
+
+## 🙏 Acknowledgments
+
+This project uses and builds upon the excellent **[Secrets Patterns DB](https://github.com/mazen160/secrets-patterns-db)** by [@mazen160](https://github.com/mazen160),  
+which provides a comprehensive collection of regular expressions for detecting secrets and API keys.  
+Huge thanks to his work for helping improve the accuracy of secret detection in `jsrip`.
